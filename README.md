@@ -1,7 +1,5 @@
 <div align="center">
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Balasurya G
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=QA+Automation+Engineer;Java+Developer;Playwright+Enthusiast;API+Automation+with+Rest+Assured;Cyber+Security+Learner;Always+Learning+Something+New+🚀"/>
 
 </div>
@@ -105,7 +103,7 @@
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/balasurya-g-90595a292/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
